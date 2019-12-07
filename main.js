@@ -125,7 +125,7 @@ class Player
 
 	draw()
 	{
-		new Rectangle(this.x,this.y,PLAYER_SIZE,PLAYER_SIZE, "red").draw();
+		new Rectangle(this.x,this.y,PLAYER_SIZE,PLAYER_SIZE, "green").draw();
 	}
 }
 
